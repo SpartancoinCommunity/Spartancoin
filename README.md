@@ -1,0 +1,2 @@
+# Spartancoin
+Spartancoin wallet
